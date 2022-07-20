@@ -1,4 +1,4 @@
-# Deep-Learning
+# Deep Learning
 
 
 This repository contains several works done for my deep learning class at Imperial College London.
