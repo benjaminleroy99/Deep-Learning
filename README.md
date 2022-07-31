@@ -3,7 +3,7 @@
 
 This repository contains several works done for my deep learning class at Imperial College London.
 
-First file is about how to create generative models with the implementation of a VVAE and a deep convolutional GAN.
+First file is about how to create generative models with the implementation of a VAE and a deep convolutional GAN.
 
 The link to this work is here:
 https://colab.research.google.com/drive/1ewHBBmE2ft4dvnylbcTmAVkgMfZ09FvI?usp=sharing
